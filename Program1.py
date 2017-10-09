@@ -5,4 +5,7 @@ if food == "yes";
     Print("eat biryani")
     Print("eat donut")
 else:
-    Print("continue with your work")
+    drink == input("will you drink something?")
+    if drink == "coke":
+        Print("I will have coke")
+        Print("I will drink pepsi too")
