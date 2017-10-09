@@ -3,5 +3,6 @@ food = input("enter any food")
 if food == "yes";
     Print("eat samosa")
     Print("eat biryani")
+    Print("eat donut")
 else:
     Print("continue with your work")
